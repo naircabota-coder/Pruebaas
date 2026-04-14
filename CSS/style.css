@@ -63,6 +63,48 @@
 }
 
 
+.producto{
+
+
+
+text-align: center;
+
+
+
+}
+
+.titulo3{
+
+
+text-align: left;
+
+margin-top: 30px;
+
+font-weight: 500;
+margin-top: 5px;
+
+margin-left: 16px;
+
+}
+
+.texto3{
+
+text-align: left;
+font-weight: 300;
+font-size: small;
+
+
+margin-left: 16px;
+
+
+
+
+
+}
+
+
+
+
 #fondomenu {
   width: 103vw;
   height: 91.5vh;
@@ -137,18 +179,25 @@
 
 .img1{
 
-width: 45%;
+width: 90%;
 height: auto;
 
 
+
+
 }
+
+
+
 
 
 .producto{
 
 padding: 10px;
 margin: 10px;
-text-align: center;
+display: flex;
+
+
 
 
 }
