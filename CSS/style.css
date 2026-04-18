@@ -78,12 +78,16 @@ text-align: center;
 
 text-align: left;
 
-margin-top: 30px;
+margin-top: 40px;
 
 font-weight: 500;
 margin-top: 5px;
 
 margin-left: 16px;
+
+font-size: small;
+
+
 
 }
 
@@ -91,18 +95,54 @@ margin-left: 16px;
 
 text-align: left;
 font-weight: 300;
-font-size: small;
+font-size: x-small;
 
 
 margin-left: 16px;
 
+margin-top: 5px;
 
+
+
+}
+
+video{
+  width: 100%;
+  max-width: 800px;
+  display: block;
+  margin: auto;
+
+margin-right: -24px;
 
 
 
 }
 
 
+.about{
+
+width: 100%;
+margin-left: -45px;
+margin-top: -80px;
+
+}
+
+
+
+
+
+
+
+p{
+
+font-size: x-small;
+margin: 20px;
+text-align: center;
+
+padding: 5px;
+
+
+}
 
 
 #fondomenu {
