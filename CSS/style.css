@@ -5,17 +5,6 @@
   font-family: Helvetica, Arial, sans-serif;
 }
 
-
-
-
-
-
-
-
-
-
-
-
 .contenedor {
 
   width: 100%;
@@ -31,9 +20,6 @@
   /* 🔥 esto la sube */
   display: block;
 
-
-
-
 }
 
 .vsso {
@@ -45,17 +31,9 @@
 
   width: 115%;
 
-
-
-
-
-
-
-
 }
 
 .fruta {
-
 
   width: 100%;
   padding: 60px;
@@ -64,8 +42,6 @@
 
 
 .producto{
-
-
 
 text-align: center;
 
